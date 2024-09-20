@@ -8,13 +8,13 @@ const SignupSection = () => {
       <div className="flex justify-center space-x-4 mb-5">
         <a 
           className="btn bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition"
-          href="http://127.0.0.1:5500/index2"
+       href="#"
         >
           Contractor
         </a>
         <a 
           className="btn bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 transition"
-          href="http://127.0.0.1:5500/index3"
+          href="#"
         >
           Workers
         </a>
